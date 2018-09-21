@@ -1,0 +1,30 @@
+_repo: Rojohoppe-viimene-reis-Uussi-raumlaissi-jaarituksi_54472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nortamo, Hjalmar
+    aliases:
+    - Nordling, Frans Hjalmar
+    - Nortamo, Hj. (Hjalmar)
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '47480'
+    url: http://www.gutenberg.org/2009/agents/47480
+description: ''
+gutenberg_issued: '2017-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54472'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish wit and humor'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: '"Rojohoppe" viimene reis -- Tasala Vilkk opettle fransklaist paini
+  -- Kuik Katavkari Efraim lukema opes -- Tasala muarin dalongaupp -- Linnalan gorsteeni
+  -- Katavkari Efraimin golm juttu -- Priki Efrosiina.'
+title: '"Rojohoppe" viimene reis: Uussi raumlaissi jaarituksi'
+url: http://www.gutenberg.org/ebooks/54472
